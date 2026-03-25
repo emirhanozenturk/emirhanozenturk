@@ -1,3 +1,5 @@
+![Followers](https://img.shields.io/github/followers/emirhanozenturk?style=flat-square&logo=github)
+![Stars](https://img.shields.io/github/stars/emirhanozenturk/PySIEM?style=flat-square&logo=github)
 # 👋 Hi, I'm Emirhan Özentürk
 
 I am a **Forensic Informatics Engineering** student at Fırat University. My work focuses on building defensive security architectures, automated forensic analysis tools, and integrating localized AI models into cybersecurity workflows.
@@ -21,6 +23,3 @@ I am a **Forensic Informatics Engineering** student at Fırat University. My wor
 ### ✉️ Connect with me
 * **Education:** Forensic Informatics Engineering, Fırat University.
 * **Collaboration:** Open to collaborating on open-source security tools and forensic research.
- 
-![Followers](https://img.shields.io/github/followers/emirhanozenturk?style=flat-square&logo=github)
-![Stars](https://img.shields.io/github/stars/emirhanozenturk/PySIEM?style=flat-square&logo=github)
